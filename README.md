@@ -3,10 +3,10 @@
 A project to demonstrate how to automate terraform workflow with Github Actions.
 
 * Github Actions after creating a pull request
-![image]()
+![image](https://user-images.githubusercontent.com/33374159/143871982-d2972a02-f2fa-458e-8d79-3cde681cc7ed.png)
 
 * Github Actions after Merging to **main** branch
-![image]()
+![image](https://user-images.githubusercontent.com/33374159/143872424-59e53e0e-6475-4b81-a853-c5c147ec645f.png)
 
 ## Getting Started
 
@@ -34,6 +34,7 @@ AWS
 * Add your changes with `git add .` and commit the changes with a message using `git commit -m "<commit-message>"`.
 * Then push your changes with `git push`.
 * Go back to the Github repository and generate a pull request from the new branch. You can view the status of the job through the pull request created, Actions tab or the Terraform Cloud workspace.
+* Then merge the pull request.
 
 ## Author
 
